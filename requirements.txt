@@ -4,3 +4,7 @@ black
 wikipedia
 ipython
 fire
+fastapi
+pydantic
+uvicorn[standard]
+urllib3==1.26.6
